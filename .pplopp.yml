@@ -1,0 +1,12 @@
+language: "node"
+version: "8"
+extras:
+files:
+  package_location: "package.json"
+commands:
+  install_dependencies: "yarn install"
+  build: "npm build"
+options:
+  rebuild_sass: true
+  public_ip: true
+  port: 80
