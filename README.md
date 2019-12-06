@@ -1,7 +1,7 @@
 # **simple-node-boilerplate**
 A simple node boilerplate using express.js, mongodb with the help of mongoose, http-server, JWT (for authentication) and etc.
 
-## **Getting Started**
+## **Getting Starteda**
 Before getting started with the project please follow the below steps.
 
 ### **Prerquisites**
