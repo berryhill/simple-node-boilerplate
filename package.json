@@ -4,7 +4,8 @@
   "description": "simple node boilerplate with jwt authentication",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "node index.js",
+    "build": "webpack --progress --bail --env dist -p"
   },
   "repository": {
     "type": "git",
